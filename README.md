@@ -1,21 +1,33 @@
-# Phishing para captura de senhas do Facebook
+# Phishing to catch passwords from Facebook "School project"
 
-### Ferramentas
+### Tools
 
-- Kali Linux
+- VirtualBox
+- Kali Linux "VM to configure the phishing"
 - setoolkit
+- Windows 10 "I create another VM to test the chalenge"
 
-### Configurando o Phishing no Kali Linux
+### Configuring Phishing in Kali Linux
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
+- Open your VM with Kali Linux
+- Access the Linux Terminal
+- Access root: ``` sudo su ```
+
+- Starting setoolkit: ``` setoolkit ```
+
 - Tipo de ataque: ``` Social-Engineering Attacks ```
+
 - Vetor de ataque: ``` Web Site Attack Vectors ```
+
 - Método de ataque: ```Credential Harvester Attack Method ```
+
 - Método de ataque: ``` Site Cloner ```
+
 - Obtendo o endereço da máquina: ``` ifconfig ```
+
 - URL para clone: http://www.facebook.com
 
-### Resutados
+
+### Resuts
 
 ![Alt text](./passwd.png "Optional title")
