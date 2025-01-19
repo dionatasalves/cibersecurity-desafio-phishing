@@ -13,9 +13,15 @@
 - Access the Linux Terminal
 - Access root: ``` sudo su ```
 
+![Alt text](./01rootAccess.png "Optional title")
+
 - Starting setoolkit: ``` setoolkit ```
 
+![Alt text](./02-Social-EngineeringAttacks.png "Optional title")
+
 - Tipo de ataque: ``` Social-Engineering Attacks ```
+
+
 
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 
