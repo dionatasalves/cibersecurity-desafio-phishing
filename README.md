@@ -13,7 +13,7 @@
 - Access the Linux Terminal
 - Access root: ``` sudo su ```
 
-![Alt text](./01-rootAccess.png "Optional title")
+![Alt text](./01-rootaccess.png "Optional title")
 
 - Starting setoolkit: ``` setoolkit ```
 
