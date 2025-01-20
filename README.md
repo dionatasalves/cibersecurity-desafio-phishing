@@ -87,7 +87,7 @@
 
 ### Qualquer dúvida estou a disposição
 
-### Creditos
+### Créditos
 
 - URL para clone: https://github.com/Weslley22Marques/cibersecurity-desafio-phishing
 
