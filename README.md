@@ -86,3 +86,9 @@
 ![Alt text](./04-Salvar.png "Optional title")
 
 ### Qualquer dúvida estou a disposição
+
+### Creditos
+
+- URL para clone: https://github.com/Weslley22Marques/cibersecurity-desafio-phishing
+
+- URL para clone: http://ai.zendev.com.br/proof.mp4
