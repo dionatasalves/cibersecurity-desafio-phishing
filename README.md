@@ -37,15 +37,15 @@
 
 - Obtendo o endereço da máquina: ``` 192.168.1.26 ```
 
-![Alt text](.06-IPtoClone.png "Optional title")
+![Alt text](./06-IPtoClone.png "Optional title")
 
 - URL para clone: http://www.facebook.com
 
-![Alt text](.07-SitetoClone.png "Optional title")
+![Alt text](./07-SitetoClone.png "Optional title")
 
 - URL para site clone: 192.168.1.26
 
-![Alt text](.08-Cloneofsite.png "Optional title")
+![Alt text](./08-Cloneofsite.png "Optional title")
 
 ### Resutado
 
